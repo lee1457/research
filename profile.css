@@ -1,0 +1,16 @@
+  	footer{
+  		text-align: center;
+  		background-color: grey;
+  		height: 100px;
+  	}
+  	nav a{
+  		text-align:left;
+  	}
+  	#gotohome {
+  		position: relative;
+  		left: 200px;
+  	}
+  	#profile{
+		position: relative;
+		right: 250px;
+  	}
